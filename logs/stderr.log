@@ -1,0 +1,64 @@
+16 февр. 2022 12:56:37,731 ERROR StartLogger - Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение. (host: localhost, user: postgres)
+16 февр. 2022 12:56:37,739 ERROR StartLogger - Exception while starting logics instance: 
+java.lang.RuntimeException: org.postgresql.util.PSQLException: Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение.
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:222)
+	at lsfusion.server.physics.admin.reflection.controller.init.InitReflectionEventsTask.run(InitReflectionEventsTask.java:13)
+	at lsfusion.server.base.task.Task.proceed(Task.java:143)
+	at lsfusion.server.base.task.Task$1.aspectRun(Task.java:101)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$AspectRunnable.run(ExecutorFactory.java:473)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:552)
+Caused by: org.postgresql.util.PSQLException: Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение.
+	at org.postgresql.Driver.connect(Driver.java:281)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:251)
+	at lsfusion.server.data.sql.adapter.PostgreDataAdapter.ensureDB(PostgreDataAdapter.java:77)
+	at lsfusion.server.data.sql.adapter.DataAdapter.ensure(DataAdapter.java:70)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:210)
+	... 8 more
+Caused by: java.lang.IllegalArgumentException: Empty string 'password'
+	at org.postgresql.shaded.com.ongres.scram.common.util.Preconditions.checkNotEmpty(Preconditions.java:56)
+	at org.postgresql.shaded.com.ongres.scram.client.ScramSession$ServerFirstProcessor.clientFinalProcessor(ScramSession.java:128)
+	at org.postgresql.jre7.sasl.ScramAuthenticator.processServerFirstMessage(ScramAuthenticator.java:132)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:684)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:141)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:192)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+	at org.postgresql.Driver.makeConnection(Driver.java:458)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	... 13 more
+16 февр. 2022 12:57:36,805 ERROR StartLogger - Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение. (host: localhost, user: postgres)
+16 февр. 2022 12:57:36,811 ERROR StartLogger - Exception while starting logics instance: 
+java.lang.RuntimeException: org.postgresql.util.PSQLException: Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение.
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:222)
+	at lsfusion.server.physics.admin.reflection.controller.init.InitReflectionEventsTask.run(InitReflectionEventsTask.java:13)
+	at lsfusion.server.base.task.Task.proceed(Task.java:143)
+	at lsfusion.server.base.task.Task$1.aspectRun(Task.java:101)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$AspectRunnable.run(ExecutorFactory.java:473)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:552)
+Caused by: org.postgresql.util.PSQLException: Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение.
+	at org.postgresql.Driver.connect(Driver.java:281)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:251)
+	at lsfusion.server.data.sql.adapter.PostgreDataAdapter.ensureDB(PostgreDataAdapter.java:77)
+	at lsfusion.server.data.sql.adapter.DataAdapter.ensure(DataAdapter.java:70)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:210)
+	... 8 more
+Caused by: java.lang.IllegalArgumentException: Empty string 'password'
+	at org.postgresql.shaded.com.ongres.scram.common.util.Preconditions.checkNotEmpty(Preconditions.java:56)
+	at org.postgresql.shaded.com.ongres.scram.client.ScramSession$ServerFirstProcessor.clientFinalProcessor(ScramSession.java:128)
+	at org.postgresql.jre7.sasl.ScramAuthenticator.processServerFirstMessage(ScramAuthenticator.java:132)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:684)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:141)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:192)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+	at org.postgresql.Driver.makeConnection(Driver.java:458)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	... 13 more

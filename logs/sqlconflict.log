@@ -1,0 +1,2 @@
+16 февр. 2022 13:03:48,431 system - system - system  INFO SQLConflictLogger - TRANSACTION  lsfusion.server.data.sql.exception.SQLConflictException: UPDATE_CONFLICT UPDATE _auto SET SystemEvents_platformVersion=CAST('5.0-SNAPSHOT' AS text) FROM dumb WHERE 1=1
+16 февр. 2022 13:03:48,518 system - system - system  INFO SQLConflictLogger - TRANSACTION  lsfusion.server.data.sql.exception.SQLConflictException: UPDATE_CONFLICT UPDATE _auto SET Time_currentDate=CAST('2022-02-16 +05' AS date) FROM dumb WHERE 1=1

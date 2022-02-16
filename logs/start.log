@@ -1,0 +1,328 @@
+16 февр. 2022 12:56:32,801  INFO StartLogger - Server is starting...
+16 февр. 2022 12:56:33,728  INFO StartLogger - Logics instance is starting...
+16 февр. 2022 12:56:33,765  INFO StartLogger - Initializing BusinessLogics
+16 февр. 2022 12:56:33,771  INFO StartLogger - Initializing localizer
+16 февр. 2022 12:56:33,772  INFO StartLogger - Initializing string literals data
+16 февр. 2022 12:56:33,771  INFO StartLogger - Creating modules
+16 февр. 2022 12:56:34,089  INFO StartLogger - Initializing dependencies
+16 февр. 2022 12:56:34,227  INFO StartLogger - Initializing modules order
+16 февр. 2022 12:56:34,229  INFO StartLogger - Initializing metacodes and classes
+16 февр. 2022 12:56:34,678  INFO StartLogger - Initializing object class
+16 февр. 2022 12:56:34,682  INFO StartLogger - Initializing tables
+16 февр. 2022 12:56:34,758  INFO StartLogger - Initializing class tables
+16 февр. 2022 12:56:34,848  INFO StartLogger - Initializing full tables with one key
+16 февр. 2022 12:56:34,850  INFO StartLogger - Initializing main logic
+16 февр. 2022 12:56:34,860  INFO StartLogger - Initializing main logic for module : #1 of 42 System (actual: 1)
+16 февр. 2022 12:56:35,658  INFO StartLogger - Initializing main logic for module : #2 of 42 Time (actual: 2)
+16 февр. 2022 12:56:35,658  INFO StartLogger - Initializing main logic for module : #5 of 42 Main (actual: 42)
+16 февр. 2022 12:56:35,658  INFO StartLogger - Initializing main logic for module : #7 of 42 MasterData (actual: 7)
+16 февр. 2022 12:56:35,658  INFO StartLogger - Initializing main logic for module : #6 of 42 Printer (actual: 16)
+16 февр. 2022 12:56:35,658  INFO StartLogger - Initializing main logic for module : #3 of 42 Integration (actual: 26)
+16 февр. 2022 12:56:35,658  INFO StartLogger - Initializing main logic for module : #9 of 42 Sound (actual: 33)
+16 февр. 2022 12:56:35,658  INFO StartLogger - Initializing main logic for module : #4 of 42 Com (actual: 30)
+16 февр. 2022 12:56:35,659  INFO StartLogger - Initializing main logic for module : #10 of 42 OpenCV (actual: 39)
+16 февр. 2022 12:56:35,658  INFO StartLogger - Initializing main logic for module : #8 of 42 ProcessUtils (actual: 34)
+16 февр. 2022 12:56:35,659  INFO StartLogger - Initializing main logic for module : #12 of 42 Image (actual: 17)
+16 февр. 2022 12:56:35,659  INFO StartLogger - Initializing main logic for module : #11 of 42 DefaultData (actual: 13)
+16 февр. 2022 12:56:35,672  INFO StartLogger - Initializing main logic for module : #13 of 42 Numerator (actual: 18)
+16 февр. 2022 12:56:35,772  INFO StartLogger - Initializing main logic for module : #14 of 42 Utils (actual: 3)
+16 февр. 2022 12:56:35,865  INFO StartLogger - Initializing main logic for module : #15 of 42 Schedule (actual: 40)
+16 февр. 2022 12:56:35,865  INFO StartLogger - Initializing main logic for module : #17 of 42 I18n (actual: 29)
+16 февр. 2022 12:56:35,865  INFO StartLogger - Initializing main logic for module : #16 of 42 Fax (actual: 41)
+16 февр. 2022 12:56:35,865  INFO StartLogger - Initializing main logic for module : #20 of 42 Geo (actual: 35)
+16 февр. 2022 12:56:35,865  INFO StartLogger - Initializing main logic for module : #19 of 42 Hierarchy (actual: 23)
+16 февр. 2022 12:56:35,865  INFO StartLogger - Initializing main logic for module : #18 of 42 Excel (actual: 24)
+16 февр. 2022 12:56:35,865  INFO StartLogger - Initializing main logic for module : #21 of 42 Authentication (actual: 4)
+16 февр. 2022 12:56:36,152  INFO StartLogger - Initializing main logic for module : #22 of 42 Historizable (actual: 22)
+16 февр. 2022 12:56:36,152  INFO StartLogger - Initializing main logic for module : #24 of 42 Document (actual: 19)
+16 февр. 2022 12:56:36,152  INFO StartLogger - Initializing main logic for module : #25 of 42 ProcessMonitor (actual: 20)
+16 февр. 2022 12:56:36,152  INFO StartLogger - Initializing main logic for module : #23 of 42 Reflection (actual: 5)
+16 февр. 2022 12:56:36,307  INFO StartLogger - Initializing main logic for module : #26 of 42 Messenger (actual: 31)
+16 февр. 2022 12:56:36,307  INFO StartLogger - Initializing main logic for module : #28 of 42 Email (actual: 9)
+16 февр. 2022 12:56:36,307  INFO StartLogger - Initializing main logic for module : #27 of 42 SystemEvents (actual: 6)
+16 февр. 2022 12:56:36,316  INFO StartLogger - WARNING! Now default change event action will work in new session Messenger(67:30) property:Messenger.synchronizeChatsAction[Messenger.Account] 'Синхронизировать аккаунт' [Messenger(59:70)]
+16 февр. 2022 12:56:36,324  INFO StartLogger - Initializing main logic for module : #29 of 42 Slack (actual: 38)
+16 февр. 2022 12:56:36,324  INFO StartLogger - Initializing main logic for module : #31 of 42 Skype (actual: 37)
+16 февр. 2022 12:56:36,324  INFO StartLogger - Initializing main logic for module : #32 of 42 Telegram (actual: 32)
+16 февр. 2022 12:56:36,324  INFO StartLogger - Initializing main logic for module : #30 of 42 Viber (actual: 36)
+16 февр. 2022 12:56:36,404  INFO StartLogger - Initializing main logic for module : #33 of 42 Security (actual: 10)
+16 февр. 2022 12:56:36,404  INFO StartLogger - Initializing main logic for module : #34 of 42 Word (actual: 8)
+16 февр. 2022 12:56:36,575  INFO StartLogger - Initializing main logic for module : #35 of 42 Service (actual: 11)
+16 февр. 2022 12:56:36,734  INFO StartLogger - Initializing main logic for module : #36 of 42 Chat (actual: 27)
+16 февр. 2022 12:56:36,734  INFO StartLogger - Initializing main logic for module : #38 of 42 Profiler (actual: 25)
+16 февр. 2022 12:56:36,734  INFO StartLogger - Initializing main logic for module : #39 of 42 SQLUtils (actual: 21)
+16 февр. 2022 12:56:36,734  INFO StartLogger - Initializing main logic for module : #37 of 42 Scheduler (actual: 12)
+16 февр. 2022 12:56:36,734  INFO StartLogger - Initializing main logic for module : #40 of 42 Eval (actual: 28)
+16 февр. 2022 12:56:36,814  INFO StartLogger - Initializing main logic for module : #41 of 42 SchedulerDefaultData (actual: 14)
+16 февр. 2022 12:56:36,818  INFO StartLogger - Initializing main logic for module : #42 of 42 Backup (actual: 15)
+16 февр. 2022 12:56:36,884  INFO StartLogger - Checking for duplicate elements
+16 февр. 2022 12:56:36,884  INFO StartLogger - Finalizing groups
+16 февр. 2022 12:56:36,884  INFO StartLogger - Finalizing classes
+16 февр. 2022 12:56:36,912  INFO StartLogger - Filling implicit cases
+16 февр. 2022 12:56:36,912  INFO StartLogger - Initializing abstract properties
+16 февр. 2022 12:56:36,913  INFO StartLogger - Finalizing abstract actions
+16 февр. 2022 12:56:36,978  INFO StartLogger - Initializing fields for data and materialized properties
+16 февр. 2022 12:56:36,979  INFO StartLogger - Initializing class aggr props
+16 февр. 2022 12:56:36,979  INFO StartLogger - Checking abstract
+16 февр. 2022 12:56:36,987  INFO StartLogger - Looking for recursions in abstract actions / properties
+16 февр. 2022 12:56:37,026  INFO StartLogger - Setup reset files
+16 февр. 2022 12:56:37,026  INFO StartLogger - Finalizing navigator elements
+16 февр. 2022 12:56:37,026  INFO StartLogger - Setup drill-down
+16 февр. 2022 12:56:37,026  INFO StartLogger - Setup property policy
+16 февр. 2022 12:56:37,048  INFO StartLogger - Initializing indices
+16 февр. 2022 12:56:37,049  INFO StartLogger - Finalizing tables
+16 февр. 2022 12:56:37,097  INFO StartLogger - Initializing reflection events
+16 февр. 2022 12:56:37,105  INFO StartLogger - Showing dependencies
+16 февр. 2022 12:56:37,105  INFO StartLogger - Setup action policy
+16 февр. 2022 12:56:37,731 ERROR StartLogger - Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение. (host: localhost, user: postgres)
+16 февр. 2022 12:56:37,739 ERROR StartLogger - Exception while starting logics instance: 
+java.lang.RuntimeException: org.postgresql.util.PSQLException: Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение.
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:222)
+	at lsfusion.server.physics.admin.reflection.controller.init.InitReflectionEventsTask.run(InitReflectionEventsTask.java:13)
+	at lsfusion.server.base.task.Task.proceed(Task.java:143)
+	at lsfusion.server.base.task.Task$1.aspectRun(Task.java:101)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$AspectRunnable.run(ExecutorFactory.java:473)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:552)
+Caused by: org.postgresql.util.PSQLException: Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение.
+	at org.postgresql.Driver.connect(Driver.java:281)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:251)
+	at lsfusion.server.data.sql.adapter.PostgreDataAdapter.ensureDB(PostgreDataAdapter.java:77)
+	at lsfusion.server.data.sql.adapter.DataAdapter.ensure(DataAdapter.java:70)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:210)
+	... 8 more
+Caused by: java.lang.IllegalArgumentException: Empty string 'password'
+	at org.postgresql.shaded.com.ongres.scram.common.util.Preconditions.checkNotEmpty(Preconditions.java:56)
+	at org.postgresql.shaded.com.ongres.scram.client.ScramSession$ServerFirstProcessor.clientFinalProcessor(ScramSession.java:128)
+	at org.postgresql.jre7.sasl.ScramAuthenticator.processServerFirstMessage(ScramAuthenticator.java:132)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:684)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:141)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:192)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+	at org.postgresql.Driver.makeConnection(Driver.java:458)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	... 13 more
+16 февр. 2022 12:56:37,742  INFO StartLogger - Error starting server, server will be stopped.
+16 февр. 2022 12:56:37,742  INFO StartLogger - Server is stopping...
+16 февр. 2022 12:56:37,742  INFO StartLogger - Logics instance is stopping...
+16 февр. 2022 12:56:37,743  INFO StartLogger - Logics instance has stopped...
+16 февр. 2022 12:56:37,744  INFO StartLogger - Server has stopped...
+16 февр. 2022 12:57:32,455  INFO StartLogger - Server is starting...
+16 февр. 2022 12:57:33,340  INFO StartLogger - Logics instance is starting...
+16 февр. 2022 12:57:33,371  INFO StartLogger - Initializing BusinessLogics
+16 февр. 2022 12:57:33,375  INFO StartLogger - Initializing localizer
+16 февр. 2022 12:57:33,377  INFO StartLogger - Initializing string literals data
+16 февр. 2022 12:57:33,377  INFO StartLogger - Creating modules
+16 февр. 2022 12:57:33,695  INFO StartLogger - Initializing dependencies
+16 февр. 2022 12:57:33,815  INFO StartLogger - Initializing modules order
+16 февр. 2022 12:57:33,816  INFO StartLogger - Initializing metacodes and classes
+16 февр. 2022 12:57:34,250  INFO StartLogger - Initializing object class
+16 февр. 2022 12:57:34,255  INFO StartLogger - Initializing tables
+16 февр. 2022 12:57:34,324  INFO StartLogger - Initializing class tables
+16 февр. 2022 12:57:34,416  INFO StartLogger - Initializing full tables with one key
+16 февр. 2022 12:57:34,417  INFO StartLogger - Initializing main logic
+16 февр. 2022 12:57:34,428  INFO StartLogger - Initializing main logic for module : #1 of 42 System (actual: 1)
+16 февр. 2022 12:57:35,182  INFO StartLogger - Initializing main logic for module : #2 of 42 OpenCV (actual: 35)
+16 февр. 2022 12:57:35,183  INFO StartLogger - Initializing main logic for module : #6 of 42 Com (actual: 26)
+16 февр. 2022 12:57:35,183  INFO StartLogger - Initializing main logic for module : #5 of 42 ProcessUtils (actual: 30)
+16 февр. 2022 12:57:35,182  INFO StartLogger - Initializing main logic for module : #4 of 42 Image (actual: 10)
+16 февр. 2022 12:57:35,182  INFO StartLogger - Initializing main logic for module : #3 of 42 Printer (actual: 9)
+16 февр. 2022 12:57:35,183  INFO StartLogger - Initializing main logic for module : #9 of 42 Sound (actual: 29)
+16 февр. 2022 12:57:35,183  INFO StartLogger - Initializing main logic for module : #8 of 42 MasterData (actual: 7)
+16 февр. 2022 12:57:35,183  INFO StartLogger - Initializing main logic for module : #11 of 42 Time (actual: 2)
+16 февр. 2022 12:57:35,183  INFO StartLogger - Initializing main logic for module : #7 of 42 DefaultData (actual: 11)
+16 февр. 2022 12:57:35,183  INFO StartLogger - Initializing main logic for module : #10 of 42 Integration (actual: 23)
+16 февр. 2022 12:57:35,194  INFO StartLogger - Initializing main logic for module : #12 of 42 Numerator (actual: 12)
+16 февр. 2022 12:57:35,288  INFO StartLogger - Initializing main logic for module : #13 of 42 Utils (actual: 3)
+16 февр. 2022 12:57:35,355  INFO StartLogger - Initializing main logic for module : #14 of 42 Geo (actual: 31)
+16 февр. 2022 12:57:35,355  INFO StartLogger - Initializing main logic for module : #16 of 42 Hierarchy (actual: 20)
+16 февр. 2022 12:57:35,355  INFO StartLogger - Initializing main logic for module : #17 of 42 Schedule (actual: 36)
+16 февр. 2022 12:57:35,355  INFO StartLogger - Initializing main logic for module : #18 of 42 Excel (actual: 21)
+16 февр. 2022 12:57:35,355  INFO StartLogger - Initializing main logic for module : #15 of 42 Fax (actual: 37)
+16 февр. 2022 12:57:35,356  INFO StartLogger - Initializing main logic for module : #19 of 42 I18n (actual: 25)
+16 февр. 2022 12:57:35,356  INFO StartLogger - Initializing main logic for module : #20 of 42 Authentication (actual: 4)
+16 февр. 2022 12:57:35,578  INFO StartLogger - Initializing main logic for module : #21 of 42 Historizable (actual: 19)
+16 февр. 2022 12:57:35,579  INFO StartLogger - Initializing main logic for module : #23 of 42 Document (actual: 13)
+16 февр. 2022 12:57:35,579  INFO StartLogger - Initializing main logic for module : #24 of 42 ProcessMonitor (actual: 17)
+16 февр. 2022 12:57:35,579  INFO StartLogger - Initializing main logic for module : #22 of 42 Reflection (actual: 5)
+16 февр. 2022 12:57:35,698  INFO StartLogger - Initializing main logic for module : #25 of 42 Messenger (actual: 27)
+16 февр. 2022 12:57:35,698  INFO StartLogger - Initializing main logic for module : #27 of 42 SystemEvents (actual: 6)
+16 февр. 2022 12:57:35,698  INFO StartLogger - Initializing main logic for module : #26 of 42 Email (actual: 14)
+16 февр. 2022 12:57:35,707  INFO StartLogger - WARNING! Now default change event action will work in new session Messenger(67:30) property:Messenger.synchronizeChatsAction[Messenger.Account] 'Синхронизировать аккаунт' [Messenger(59:70)]
+16 февр. 2022 12:57:35,716  INFO StartLogger - Initializing main logic for module : #28 of 42 Telegram (actual: 28)
+16 февр. 2022 12:57:35,716  INFO StartLogger - Initializing main logic for module : #29 of 42 Skype (actual: 33)
+16 февр. 2022 12:57:35,716  INFO StartLogger - Initializing main logic for module : #30 of 42 Slack (actual: 34)
+16 февр. 2022 12:57:35,716  INFO StartLogger - Initializing main logic for module : #31 of 42 Viber (actual: 32)
+16 февр. 2022 12:57:35,802  INFO StartLogger - Initializing main logic for module : #32 of 42 Security (actual: 15)
+16 февр. 2022 12:57:35,802  INFO StartLogger - Initializing main logic for module : #33 of 42 Word (actual: 8)
+16 февр. 2022 12:57:35,924  INFO StartLogger - Initializing main logic for module : #34 of 42 Service (actual: 16)
+16 февр. 2022 12:57:36,054  INFO StartLogger - Initializing main logic for module : #35 of 42 Scheduler (actual: 38)
+16 февр. 2022 12:57:36,054  INFO StartLogger - Initializing main logic for module : #39 of 42 Chat (actual: 24)
+16 февр. 2022 12:57:36,054  INFO StartLogger - Initializing main logic for module : #38 of 42 Profiler (actual: 22)
+16 февр. 2022 12:57:36,054  INFO StartLogger - Initializing main logic for module : #37 of 42 Eval (actual: 41)
+16 февр. 2022 12:57:36,054  INFO StartLogger - Initializing main logic for module : #36 of 42 SQLUtils (actual: 18)
+16 февр. 2022 12:57:36,117  INFO StartLogger - Initializing main logic for module : #40 of 42 SchedulerDefaultData (actual: 39)
+16 февр. 2022 12:57:36,121  INFO StartLogger - Initializing main logic for module : #41 of 42 Backup (actual: 40)
+16 февр. 2022 12:57:36,146  INFO StartLogger - Initializing main logic for module : #42 of 42 Main (actual: 42)
+16 февр. 2022 12:57:36,166  INFO StartLogger - Checking for duplicate elements
+16 февр. 2022 12:57:36,166  INFO StartLogger - Finalizing classes
+16 февр. 2022 12:57:36,166  INFO StartLogger - Finalizing groups
+16 февр. 2022 12:57:36,189  INFO StartLogger - Filling implicit cases
+16 февр. 2022 12:57:36,189  INFO StartLogger - Initializing abstract properties
+16 февр. 2022 12:57:36,189  INFO StartLogger - Finalizing abstract actions
+16 февр. 2022 12:57:36,237  INFO StartLogger - Initializing fields for data and materialized properties
+16 февр. 2022 12:57:36,237  INFO StartLogger - Initializing class aggr props
+16 февр. 2022 12:57:36,238  INFO StartLogger - Checking abstract
+16 февр. 2022 12:57:36,247  INFO StartLogger - Looking for recursions in abstract actions / properties
+16 февр. 2022 12:57:36,276  INFO StartLogger - Setup reset files
+16 февр. 2022 12:57:36,276  INFO StartLogger - Finalizing navigator elements
+16 февр. 2022 12:57:36,277  INFO StartLogger - Setup drill-down
+16 февр. 2022 12:57:36,278  INFO StartLogger - Setup property policy
+16 февр. 2022 12:57:36,283  INFO StartLogger - Initializing indices
+16 февр. 2022 12:57:36,284  INFO StartLogger - Finalizing tables
+16 февр. 2022 12:57:36,307  INFO StartLogger - Initializing reflection events
+16 февр. 2022 12:57:36,352  INFO StartLogger - Showing dependencies
+16 февр. 2022 12:57:36,352  INFO StartLogger - Setup action policy
+16 февр. 2022 12:57:36,805 ERROR StartLogger - Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение. (host: localhost, user: postgres)
+16 февр. 2022 12:57:36,811 ERROR StartLogger - Exception while starting logics instance: 
+java.lang.RuntimeException: org.postgresql.util.PSQLException: Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение.
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:222)
+	at lsfusion.server.physics.admin.reflection.controller.init.InitReflectionEventsTask.run(InitReflectionEventsTask.java:13)
+	at lsfusion.server.base.task.Task.proceed(Task.java:143)
+	at lsfusion.server.base.task.Task$1.aspectRun(Task.java:101)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$AspectRunnable.run(ExecutorFactory.java:473)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+	at lsfusion.server.base.controller.thread.ExecutorFactory$ClosableDaemonThreadFactory$ClosableThread.run(ExecutorFactory.java:552)
+Caused by: org.postgresql.util.PSQLException: Случилось что-то необычное, что заставило драйвер произвести ошибку. Пожалуйста сообщите это исключение.
+	at org.postgresql.Driver.connect(Driver.java:281)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:677)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:251)
+	at lsfusion.server.data.sql.adapter.PostgreDataAdapter.ensureDB(PostgreDataAdapter.java:77)
+	at lsfusion.server.data.sql.adapter.DataAdapter.ensure(DataAdapter.java:70)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.initReflectionEvents(DBManager.java:210)
+	... 8 more
+Caused by: java.lang.IllegalArgumentException: Empty string 'password'
+	at org.postgresql.shaded.com.ongres.scram.common.util.Preconditions.checkNotEmpty(Preconditions.java:56)
+	at org.postgresql.shaded.com.ongres.scram.client.ScramSession$ServerFirstProcessor.clientFinalProcessor(ScramSession.java:128)
+	at org.postgresql.jre7.sasl.ScramAuthenticator.processServerFirstMessage(ScramAuthenticator.java:132)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:684)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:141)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:192)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:49)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:195)
+	at org.postgresql.Driver.makeConnection(Driver.java:458)
+	at org.postgresql.Driver.connect(Driver.java:260)
+	... 13 more
+16 февр. 2022 12:57:36,813  INFO StartLogger - Error starting server, server will be stopped.
+16 февр. 2022 12:57:36,814  INFO StartLogger - Server is stopping...
+16 февр. 2022 12:57:36,814  INFO StartLogger - Logics instance is stopping...
+16 февр. 2022 12:57:36,814  INFO StartLogger - Logics instance has stopped...
+16 февр. 2022 12:57:36,816  INFO StartLogger - Server has stopped...
+16 февр. 2022 13:03:35,214  INFO StartLogger - Server is starting...
+16 февр. 2022 13:03:36,116  INFO StartLogger - Logics instance is starting...
+16 февр. 2022 13:03:36,152  INFO StartLogger - Initializing BusinessLogics
+16 февр. 2022 13:03:36,157  INFO StartLogger - Initializing localizer
+16 февр. 2022 13:03:36,158  INFO StartLogger - Initializing string literals data
+16 февр. 2022 13:03:36,158  INFO StartLogger - Creating modules
+16 февр. 2022 13:03:36,511  INFO StartLogger - Initializing dependencies
+16 февр. 2022 13:03:36,627  INFO StartLogger - Initializing modules order
+16 февр. 2022 13:03:36,628  INFO StartLogger - Initializing metacodes and classes
+16 февр. 2022 13:03:36,974  INFO StartLogger - Initializing object class
+16 февр. 2022 13:03:36,977  INFO StartLogger - Initializing tables
+16 февр. 2022 13:03:37,020  INFO StartLogger - Initializing class tables
+16 февр. 2022 13:03:37,083  INFO StartLogger - Initializing full tables with one key
+16 февр. 2022 13:03:37,083  INFO StartLogger - Initializing main logic
+16 февр. 2022 13:03:37,094  INFO StartLogger - Initializing main logic for module : #1 of 16 System (actual: 1)
+16 февр. 2022 13:03:37,692  INFO StartLogger - Initializing main logic for module : #2 of 16 Time (actual: 2)
+16 февр. 2022 13:03:37,692  INFO StartLogger - Initializing main logic for module : #3 of 16 DefaultData (actual: 11)
+16 февр. 2022 13:03:37,792  INFO StartLogger - Initializing main logic for module : #4 of 16 Utils (actual: 3)
+16 февр. 2022 13:03:37,876  INFO StartLogger - Initializing main logic for module : #5 of 16 Authentication (actual: 4)
+16 февр. 2022 13:03:38,122  INFO StartLogger - Initializing main logic for module : #6 of 16 ProcessMonitor (actual: 14)
+16 февр. 2022 13:03:38,122  INFO StartLogger - Initializing main logic for module : #7 of 16 Reflection (actual: 5)
+16 февр. 2022 13:03:38,248  INFO StartLogger - Initializing main logic for module : #8 of 16 SystemEvents (actual: 6)
+16 февр. 2022 13:03:38,248  INFO StartLogger - Initializing main logic for module : #9 of 16 Email (actual: 7)
+16 февр. 2022 13:03:38,348  INFO StartLogger - Initializing main logic for module : #10 of 16 Security (actual: 8)
+16 февр. 2022 13:03:38,508  INFO StartLogger - Initializing main logic for module : #11 of 16 Service (actual: 9)
+16 февр. 2022 13:03:38,635  INFO StartLogger - Initializing main logic for module : #12 of 16 Eval (actual: 15)
+16 февр. 2022 13:03:38,635  INFO StartLogger - Initializing main logic for module : #13 of 16 Scheduler (actual: 10)
+16 февр. 2022 13:03:38,690  INFO StartLogger - Initializing main logic for module : #14 of 16 SchedulerDefaultData (actual: 12)
+16 февр. 2022 13:03:38,694  INFO StartLogger - Initializing main logic for module : #15 of 16 Backup (actual: 13)
+16 февр. 2022 13:03:38,720  INFO StartLogger - Initializing main logic for module : #16 of 16 Main (actual: 16)
+16 февр. 2022 13:03:38,720  INFO StartLogger - Finalizing groups
+16 февр. 2022 13:03:38,720  INFO StartLogger - Finalizing classes
+16 февр. 2022 13:03:38,720  INFO StartLogger - Checking for duplicate elements
+16 февр. 2022 13:03:38,730  INFO StartLogger - Filling implicit cases
+16 февр. 2022 13:03:38,731  INFO StartLogger - Initializing abstract properties
+16 февр. 2022 13:03:38,731  INFO StartLogger - Finalizing abstract actions
+16 февр. 2022 13:03:38,768  INFO StartLogger - Checking abstract
+16 февр. 2022 13:03:38,768  INFO StartLogger - Initializing fields for data and materialized properties
+16 февр. 2022 13:03:38,769  INFO StartLogger - Initializing class aggr props
+16 февр. 2022 13:03:38,779  INFO StartLogger - Looking for recursions in abstract actions / properties
+16 февр. 2022 13:03:38,799  INFO StartLogger - Setup drill-down
+16 февр. 2022 13:03:38,799  INFO StartLogger - Setup property policy
+16 февр. 2022 13:03:38,799  INFO StartLogger - Finalizing navigator elements
+16 февр. 2022 13:03:38,799  INFO StartLogger - Setup reset files
+16 февр. 2022 13:03:38,803  INFO StartLogger - Finalizing tables
+16 февр. 2022 13:03:38,803  INFO StartLogger - Initializing indices
+16 февр. 2022 13:03:38,813  INFO StartLogger - Initializing reflection events
+16 февр. 2022 13:03:38,851  INFO StartLogger - Setup action policy
+16 февр. 2022 13:03:38,851  INFO StartLogger - Showing dependencies
+16 февр. 2022 13:03:40,840  INFO StartLogger - Reading property links
+16 февр. 2022 13:03:40,840  INFO StartLogger - Setup loggables
+16 февр. 2022 13:03:40,840  INFO StartLogger - Initializing class data indexes
+16 февр. 2022 13:03:40,853  INFO StartLogger - Finalizing properties
+16 февр. 2022 13:03:41,138  INFO StartLogger - Building property list
+16 февр. 2022 13:03:41,196  INFO StartLogger - Initializing class dialog forms
+16 февр. 2022 13:03:41,329  INFO StartLogger - Finalizing forms
+16 февр. 2022 13:03:41,499  INFO StartLogger - Initializing actions' debugger
+16 февр. 2022 13:03:41,500  INFO StartLogger - Synchronizing DB
+16 февр. 2022 13:03:41,634  INFO StartLogger - Checking indices
+16 февр. 2022 13:03:41,634  INFO StartLogger - Creating tables
+16 февр. 2022 13:03:42,285  INFO StartLogger - Packing tables
+16 февр. 2022 13:03:42,286  INFO StartLogger - Adding indices
+16 февр. 2022 13:03:42,322  INFO StartLogger - Filling static objects ids
+16 февр. 2022 13:03:42,613  INFO StartLogger - Recalculate class stats
+16 февр. 2022 13:03:43,460  INFO StartLogger - Updating stats
+16 февр. 2022 13:03:43,537  INFO StartLogger - Writing static objects changes
+16 февр. 2022 13:03:46,007  INFO StartLogger - Migrating reflection properties and actions
+16 февр. 2022 13:03:46,031  INFO StartLogger - Recalculating aggregations
+16 февр. 2022 13:03:46,395  INFO StartLogger - Initializing Security Manager.
+16 февр. 2022 13:03:46,427  INFO StartLogger - Starting Security Manager.
+16 февр. 2022 13:03:46,950  INFO StartLogger - Starting RMI Manager
+16 февр. 2022 13:03:46,980  INFO StartLogger - Executing onStarted action
+16 февр. 2022 13:03:48,322  INFO StartLogger - Starting Scheduler
+16 февр. 2022 13:03:48,513  INFO StartLogger - Exporting RMI Logics object (port: 7652)
+16 февр. 2022 13:03:48,546  INFO StartLogger - Prereading properties graph
+16 февр. 2022 13:03:48,546  INFO StartLogger - Reading modules hash
+16 февр. 2022 13:03:48,546  INFO StartLogger - Prereading caches for properties
+16 февр. 2022 13:03:48,547  INFO StartLogger - Prereading caches for properties ended
+16 февр. 2022 13:03:48,549  INFO StartLogger - Comparing modulesHash: old null, new b28c82b0
+16 февр. 2022 13:03:48,550  INFO StartLogger - Synchronizing property entities
+16 февр. 2022 13:03:48,550  INFO StartLogger - Synchronizing group properties
+16 февр. 2022 13:03:48,550  INFO StartLogger - Synchronizing forms
+16 февр. 2022 13:03:48,551  INFO StartLogger - Synchronizing tables
+16 февр. 2022 13:03:48,551  INFO StartLogger - Synchronizing navigator elements
+16 февр. 2022 13:03:48,551  INFO StartLogger - Synchronizing group objects
+16 февр. 2022 13:03:48,552  INFO StartLogger - synchronizeTables collecting data started
+16 февр. 2022 13:03:48,551  INFO StartLogger - Synchronizing property parents
+16 февр. 2022 13:03:48,552  INFO StartLogger - Synchronizing property draws
+16 февр. 2022 13:03:48,552  INFO StartLogger - Synchronizing parents
+16 февр. 2022 13:03:48,552  INFO StartLogger - Prereading security policies
+16 февр. 2022 13:03:48,553  INFO StartLogger - synchronizeTables integration service started
+16 февр. 2022 13:03:50,405  INFO StartLogger - synchronizeTables finished
+16 февр. 2022 13:03:50,405  INFO StartLogger - Recalculating Stats at first start
+16 февр. 2022 13:03:50,406  INFO StartLogger - Writing modules hash
+16 февр. 2022 13:03:50,406  INFO StartLogger - Writing modulesHash b28c82b0
+16 февр. 2022 13:03:50,430  INFO StartLogger - Writing modulesHash finished successfully
+16 февр. 2022 13:03:50,438  INFO StartLogger - Obsolete caches were successfully cleaned
+16 февр. 2022 13:03:50,438  INFO StartLogger - Logics instance has successfully started
+16 февр. 2022 13:03:50,439  INFO StartLogger - Desktop Client is available at:
+16 февр. 2022 13:03:50,439  INFO StartLogger - Java Web Start (with auto update, requires JDK): https://download.lsfusion.org/java/lsfusion-client-5.0-SNAPSHOT.jnlp
+16 февр. 2022 13:03:50,440  INFO StartLogger - Installer for Windows (without auto update): https://download.lsfusion.org/exe/lsfusion-desktop-5.0-SNAPSHOT-x64.exe
+16 февр. 2022 13:03:50,440  INFO StartLogger - Server has successfully started in 15227 ms.
